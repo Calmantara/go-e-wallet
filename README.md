@@ -102,3 +102,6 @@ curl -X GET \
   --header 'Accept: */*' \
   --header 'User-Agent: Thunder Client (https://www.thunderclient.com)'
 ```
+
+_TODO_
+So many improvement can be done, just as simple put the checking logic into _GoRoutine_
